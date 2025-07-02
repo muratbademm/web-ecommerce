@@ -13,11 +13,10 @@ Bu proje, Angular frontend ve Spring Boot backend mimarisi ile geliştirilmiş t
 
 ### Backend (Spring Boot)
 - Spring Boot 3
-- Spring Web (REST API)
+- Spring Web (REST API)  
 - Spring Data JPA
 - Hibernate ORM
 - Lombok
-- ModelMapper (kullanılmamış ama önerilir)
 - Java 17+
 
 ### Database
